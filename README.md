@@ -90,3 +90,7 @@ MULTIPASS_RUN_DATABASE_TESTS=1 npm test
 Those tests exercise the schema, idempotent migrations, server-authenticated principal registration, cross-principal isolation, unique verified ownership, handle changes, state encryption/expiry/consumption and persisted actor keys. Never point them at an application database.
 
 Read [security boundaries](docs/SECURITY.md) and [source review](docs/SOURCE_REVIEW.md) before hosting or extending the core.
+
+## Related projects
+
+[Leeloo Multipass core](https://github.com/xirtus/leeloo-multipass) · [Leeloo Multipass SDK](https://github.com/xirtus/leeloo-multipass-sdk) · [Contribution workflow](CONTRIBUTING.md). New work targets `unstable`.
