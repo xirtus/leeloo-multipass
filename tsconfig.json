@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["ES2023"],
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "sourceMap": true,
+    "verbatimModuleSyntax": true,
+
+    // Node's native type stripping requires relative imports to carry the
+    // real `.ts` extension. TS 5.7's rewriteRelativeImportExtensions lets us
+    // write `.ts` for Node and still emit `.js` for the production build, so
+    // the same source runs under `node src/index.ts` and `node dist/index.js`.
+    "allowImportingTsExtensions": true,
+    "rewriteRelativeImportExtensions": true
+  },
+  "include": ["src/**/*.ts"]
+}

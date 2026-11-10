@@ -1,0 +1,1 @@
+Brand paths are from Simple Icons, distributed under CC0. See LICENSE.md and provenance.json. Brand names and symbols identify independent networks; they do not imply endorsement. Geometric fallback emblems and Passport page artwork are original Leeloo designs. Reference passport images were used only for design direction and were not copied into the application.

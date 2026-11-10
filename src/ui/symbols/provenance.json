@@ -1,0 +1,57 @@
+[
+  {
+    "name": "bluesky",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/bluesky.svg",
+    "sha256": "49752973164fbbf4464fbb4776f011c1eff207e5d7ad9254e031af025814eb75"
+  },
+  {
+    "name": "drupal",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/drupal.svg",
+    "sha256": "aa5655551f9132f0a58b9518e7041c99f00a2f1bb150e23cec3454153601f0c5"
+  },
+  {
+    "name": "ghost",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/ghost.svg",
+    "sha256": "be65c50c473f30df3f4da1defbfbb402bdbde934fbac0e90dae35f889175af1a"
+  },
+  {
+    "name": "lemmy",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/lemmy.svg",
+    "sha256": "f9d182f4a03a579ba8fce21fbb200a40e3d761c915cce6a743fa4600a1feee45"
+  },
+  {
+    "name": "mastodon",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/mastodon.svg",
+    "sha256": "b27197d1e47e19f31a80bf5d08b3dc9a8d073083436215f672e8e1016178cbe4"
+  },
+  {
+    "name": "matrix",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/matrix.svg",
+    "sha256": "07e6a16f5437fb0e7704c15b97bd50f46f3fa8968e022af2b9f2395fe0419d72"
+  },
+  {
+    "name": "misskey",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/misskey.svg",
+    "sha256": "e73b701b1b13de3f6e7f3168e4e136e88c55705b039ecdb0fa2c0dc5c1014b5f"
+  },
+  {
+    "name": "peertube",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/peertube.svg",
+    "sha256": "8f5ca3a2c502161d0a46db9c2fe668e611a925e3ad08dd1f270f1d311eb770b1"
+  },
+  {
+    "name": "pixelfed",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/pixelfed.svg",
+    "sha256": "e5a7fe7a6c69ce7f283082a83626be777719231f9631752a87316b0c5ae653a6"
+  },
+  {
+    "name": "threads",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/threads.svg",
+    "sha256": "3511f687f9a5713a3700130627f8d3611fb4cd54d3a9757071c93652c7fe16e8"
+  },
+  {
+    "name": "wordpress",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/wordpress.svg",
+    "sha256": "8877151b8978c3c961d16659ba28603a4015872e79fbbb770d09b68b0da8a4ff"
+  }
+]
