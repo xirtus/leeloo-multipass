@@ -5,6 +5,21 @@ A reusable account-linking Passport core for Fastify and PostgreSQL. It provides
 
 The browser launcher lives in the separate `leeloo-multipass-sdk` project. This core does not issue third-party sign-in assertions or implement a new identity provider. The package is `private` to prevent accidental npm publication while the initial public source release is reviewed.
 
+## Interface
+
+The dark-paper stamp book uses Geist, a navy cover, and pastel network symbols. Solid stamps show verified ownership; dashed stamps show saved addresses.
+
+![Leeloo Multipass desktop stamp book](docs/images/passport-desktop.png)
+
+<details>
+<summary>Mobile passport preview</summary>
+
+<img src="docs/images/passport-mobile.png" width="390" alt="Leeloo Multipass mobile stamp book with pastel network stamps on dark paper" />
+
+</details>
+
+Screenshots use fictional demonstration accounts and verification states; they do not assert ownership of real profiles.
+
 ## What works
 
 - Bluesky / AT Protocol identity-only OAuth with a maintained Node OAuth client, PKCE and DPoP; DID ownership is checked against the expected account.
