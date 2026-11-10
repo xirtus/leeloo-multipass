@@ -1,8 +1,24 @@
 # Leeloo Multipass
+<img width="722" height="574" alt="image" src="https://github.com/user-attachments/assets/da847cb9-73b7-4c5f-800d-7c297faa5577" />
 
 A reusable account-linking Passport core for Fastify and PostgreSQL. It provides a stamp-book UI, saved external identities, provider ownership checks, encrypted short-lived authorization state, and signed ActivityPub profile retrieval. It is independent of any game database and has no required hosted service.
 
 The browser launcher lives in the separate `leeloo-multipass-sdk` project. This core does not issue third-party sign-in assertions or implement a new identity provider. The package is `private` to prevent accidental npm publication while the initial public source release is reviewed.
+
+## Interface
+
+The dark-paper stamp book uses Geist, a navy cover, and pastel network symbols. Solid stamps show verified ownership; dashed stamps show saved addresses.
+
+![Leeloo Multipass desktop stamp book](docs/images/passport-desktop.png)
+
+<details>
+<summary>Mobile passport preview</summary>
+
+<img src="docs/images/passport-mobile.png" width="390" alt="Leeloo Multipass mobile stamp book with pastel network stamps on dark paper" />
+
+</details>
+
+Screenshots use fictional demonstration accounts and verification states; they do not assert ownership of real profiles.
 
 ## What works
 
@@ -90,3 +106,7 @@ MULTIPASS_RUN_DATABASE_TESTS=1 npm test
 Those tests exercise the schema, idempotent migrations, server-authenticated principal registration, cross-principal isolation, unique verified ownership, handle changes, state encryption/expiry/consumption and persisted actor keys. Never point them at an application database.
 
 Read [security boundaries](docs/SECURITY.md) and [source review](docs/SOURCE_REVIEW.md) before hosting or extending the core.
+
+## Related projects
+
+[Leeloo Multipass core](https://github.com/xirtus/leeloo-multipass) · [Leeloo Multipass SDK](https://github.com/xirtus/leeloo-multipass-sdk) · [Contribution workflow](CONTRIBUTING.md). New work targets `unstable`.
