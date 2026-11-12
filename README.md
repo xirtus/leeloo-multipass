@@ -1,5 +1,5 @@
 # Leeloo Multipass
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3517c569-3890-4f07-9308-c803466cac6d" />
+<img width="1792" height="1008" alt="image" src="https://github.com/user-attachments/assets/5a8f10ec-abbd-475d-9a06-83e627624b0b" />
 
 <img width="722" height="574" alt="image" src="https://github.com/user-attachments/assets/da847cb9-73b7-4c5f-800d-7c297faa5577" />
 
