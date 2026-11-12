@@ -1,4 +1,6 @@
 # Leeloo Multipass
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3517c569-3890-4f07-9308-c803466cac6d" />
+
 <img width="722" height="574" alt="image" src="https://github.com/user-attachments/assets/da847cb9-73b7-4c5f-800d-7c297faa5577" />
 
 A reusable account-linking Passport core for Fastify and PostgreSQL. It provides a stamp-book UI, saved external identities, provider ownership checks, encrypted short-lived authorization state, and signed ActivityPub profile retrieval. It is independent of any game database and has no required hosted service.
